@@ -1,0 +1,10 @@
+<application>
+  <component name="PySdkService">
+    <option name="REMOVED_SDKS">
+      <set>
+        <option value="$USER_HOME$/.virtualenvs/dj1.9/bin/python" />
+        <option value="$USER_HOME$/.virtualenvs/pj/bin/python" />
+      </set>
+    </option>
+  </component>
+</application>

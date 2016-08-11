@@ -11571,7 +11571,7 @@
         <entry key="apio" value="" />
         <entry key="apiparse" value="" />
         <entry key="apiphant" value="" />
-        <entry key="apipkg" value="" />
+        <entry key="apipkg" value="1.4" />
         <entry key="apipy" value="" />
         <entry key="apirator" value="" />
         <entry key="apischema" value="" />
@@ -33026,7 +33026,7 @@
         <entry key="enum" value="" />
         <entry key="enum-compat" value="" />
         <entry key="enum21" value="" />
-        <entry key="enum34" value="" />
+        <entry key="enum34" value="1.1.6" />
         <entry key="enum34-custom" value="" />
         <entry key="enum3field" value="" />
         <entry key="enum_meta" value="" />
@@ -33611,7 +33611,7 @@
         <entry key="exec_proxy" value="" />
         <entry key="execconf" value="" />
         <entry key="execmode" value="" />
-        <entry key="execnet" value="" />
+        <entry key="execnet" value="1.4.1" />
         <entry key="execo" value="" />
         <entry key="execsql" value="" />
         <entry key="execute" value="" />
@@ -38335,7 +38335,7 @@
         <entry key="gprfhub" value="" />
         <entry key="gprflibraries" value="" />
         <entry key="gprof" value="" />
-        <entry key="gprof2dot" value="" />
+        <entry key="gprof2dot" value="2015.12.1" />
         <entry key="gprofiler" value="" />
         <entry key="gprofiler-official" value="" />
         <entry key="gps3" value="" />
@@ -51093,7 +51093,7 @@
         <entry key="named_constants" value="" />
         <entry key="named_decorator" value="" />
         <entry key="namedentities" value="" />
-        <entry key="namedlist" value="" />
+        <entry key="namedlist" value="1.7" />
         <entry key="namedout" value="" />
         <entry key="namedparser" value="" />
         <entry key="namedropper" value="" />
@@ -59293,7 +59293,7 @@
         <entry key="pxp" value="" />
         <entry key="pxprocess" value="" />
         <entry key="pxul" value="" />
-        <entry key="py" value="" />
+        <entry key="py" value="1.4.31" />
         <entry key="py-4chan" value="" />
         <entry key="py-ApeTag" value="" />
         <entry key="py-Asterisk" value="" />
@@ -64370,9 +64370,9 @@
         <entry key="pytesmo" value="" />
         <entry key="pytesseract" value="" />
         <entry key="pytessert" value="" />
-        <entry key="pytest" value="" />
+        <entry key="pytest" value="2.9.2" />
         <entry key="pytest-aiohttp" value="" />
-        <entry key="pytest-allure-adaptor" value="" />
+        <entry key="pytest-allure-adaptor" value="1.7.5" />
         <entry key="pytest-ansible" value="" />
         <entry key="pytest-assume" value="" />
         <entry key="pytest-ast-back-to-python" value="" />
@@ -64393,7 +64393,7 @@
         <entry key="pytest-bugzilla" value="" />
         <entry key="pytest-cache" value="" />
         <entry key="pytest-cagoule" value="" />
-        <entry key="pytest-capturelog" value="" />
+        <entry key="pytest-capturelog" value="0.7" />
         <entry key="pytest-catchlog" value="" />
         <entry key="pytest-check-mk" value="" />
         <entry key="pytest-circleci" value="" />
@@ -64405,7 +64405,7 @@
         <entry key="pytest-contextfixture" value="" />
         <entry key="pytest-cookies" value="" />
         <entry key="pytest-couchdbkit" value="" />
-        <entry key="pytest-cov" value="" />
+        <entry key="pytest-cov" value="2.3.1" />
         <entry key="pytest-cov-exclude" value="" />
         <entry key="pytest-cover" value="" />
         <entry key="pytest-coverage" value="" />
@@ -64421,12 +64421,12 @@
         <entry key="pytest-datatest" value="" />
         <entry key="pytest-dbfixtures" value="" />
         <entry key="pytest-dbus-notification" value="" />
-        <entry key="pytest-describe" value="" />
+        <entry key="pytest-describe" value="0.10.3" />
         <entry key="pytest-devpi-server" value="" />
         <entry key="pytest-diamond" value="" />
         <entry key="pytest-diffeo" value="" />
         <entry key="pytest-disable" value="" />
-        <entry key="pytest-django" value="" />
+        <entry key="pytest-django" value="2.9.1" />
         <entry key="pytest-django-casperjs" value="" />
         <entry key="pytest-django-haystack" value="" />
         <entry key="pytest-django-lite" value="" />
@@ -64516,7 +64516,7 @@
         <entry key="pytest-poo" value="" />
         <entry key="pytest-poo-fail" value="" />
         <entry key="pytest-pride" value="" />
-        <entry key="pytest-profiling" value="" />
+        <entry key="pytest-profiling" value="1.1.1" />
         <entry key="pytest-proper-wheel" value="" />
         <entry key="pytest-pudb" value="" />
         <entry key="pytest-purkinje" value="" />
@@ -64600,7 +64600,7 @@
         <entry key="pytest-webdriver" value="" />
         <entry key="pytest-wholenodeid" value="" />
         <entry key="pytest-winnotify" value="" />
-        <entry key="pytest-xdist" value="" />
+        <entry key="pytest-xdist" value="1.13.1" />
         <entry key="pytest-xprocess" value="" />
         <entry key="pytest-xvfb" value="" />
         <entry key="pytest-yamlwsgi" value="" />

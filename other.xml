@@ -79,6 +79,8 @@
       <map>
         <entry key="$USER_HOME$/.virtualenvs/dj1.9/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/dj1.9/bin/python3.4" value="true" />
+        <entry key="$USER_HOME$/.virtualenvs/djangocontrib/bin/python3.4" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/djangocontribenv/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/evfam/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/flask_0/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/pj/bin/python" value="false" />
@@ -93,6 +95,8 @@
       <map>
         <entry key="$USER_HOME$/.virtualenvs/dj1.9/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/dj1.9/bin/python3.4" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/djangocontrib/bin/python3.4" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/djangocontribenv/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/evfam/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/flask_0/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/pj/bin/python" value="false" />
@@ -107,6 +111,8 @@
       <map>
         <entry key="$USER_HOME$/.virtualenvs/dj1.9/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/dj1.9/bin/python3.4" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/djangocontrib/bin/python3.4" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/djangocontribenv/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/evfam/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/flask_0/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/pj/bin/python" value="false" />

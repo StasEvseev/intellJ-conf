@@ -61707,7 +61707,7 @@
         <entry key="plugandpie" value="" />
         <entry key="pluggage" value="" />
         <entry key="pluggdapps" value="" />
-        <entry key="pluggy" value="" />
+        <entry key="pluggy" value="0.3.1" />
         <entry key="plugin" value="" />
         <entry key="plugin-loader" value="" />
         <entry key="plugin-manager" value="" />
@@ -63484,7 +63484,7 @@
         <entry key="pxp" value="" />
         <entry key="pxprocess" value="" />
         <entry key="pxul" value="" />
-        <entry key="py" value="" />
+        <entry key="py" value="1.4.31" />
         <entry key="py-4chan" value="" />
         <entry key="py-ApeTag" value="" />
         <entry key="py-Asterisk" value="" />
@@ -84223,7 +84223,7 @@
         <entry key="tower-companion" value="" />
         <entry key="town_nester" value="" />
         <entry key="towncrier" value="" />
-        <entry key="tox" value="" />
+        <entry key="tox" value="2.4.1" />
         <entry key="tox-battery" value="" />
         <entry key="tox-bitbucket-status" value="" />
         <entry key="tox-cmake" value="" />
@@ -87391,7 +87391,7 @@
         <entry key="virtualchain" value="" />
         <entry key="virtualdc" value="" />
         <entry key="virtualecologist" value="" />
-        <entry key="virtualenv" value="" />
+        <entry key="virtualenv" value="15.0.3" />
         <entry key="virtualenv-activator" value="" />
         <entry key="virtualenv-api" value="" />
         <entry key="virtualenv-bin" value="" />

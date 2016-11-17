@@ -3,6 +3,7 @@
     <option name="myHgExecutable" value="/usr/bin/hg" />
     <option name="myRememberedUserNames">
       <map>
+        <entry key="hg.iponweb.net/bidswitch/ui-ci/" value="sevseev" />
         <entry key="hg.iponweb.net/bidswitch/ui/" value="sevseev" />
       </map>
     </option>

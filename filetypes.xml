@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="REQUIREMENTS" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
       <mapping pattern="wedding" type="PLAIN_TEXT" />
       <mapping pattern=".hgsubstate" type="PLAIN_TEXT" />

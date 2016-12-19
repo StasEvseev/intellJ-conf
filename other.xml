@@ -8,6 +8,7 @@
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
+        <entry key="$USER_HOME$/.virtualenvs/adminbuyenv/bin/python" value="true" />
         <entry key="$USER_HOME$/.virtualenvs/replicaenv/bin/python" value="false" />
       </map>
     </option>

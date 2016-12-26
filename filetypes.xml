@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="requiements" type="PLAIN_TEXT" />
       <mapping pattern="REQUIREMENTS" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />

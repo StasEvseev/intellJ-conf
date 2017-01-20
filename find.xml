@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
@@ -17,6 +15,8 @@
       <mask>*.html</mask>
       <mask>models.py</mask>
       <mask>*.js</mask>
+      <mask>test_*.py</mask>
+      <mask>test*.py</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>

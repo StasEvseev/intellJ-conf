@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="rsync-shared-folder" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="rsync" />
+      <option name="PARAMETERS" value="-vza -e ssh /Users/stanislav/shared_folder  stas@dominicana:/home/stas/share_folder" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

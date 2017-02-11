@@ -5,12 +5,14 @@
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="requiements" type="PLAIN_TEXT" />
       <mapping pattern="REQUIREMENTS" type="PLAIN_TEXT" />
+      <mapping pattern="requirements" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
       <mapping pattern="wedding" type="PLAIN_TEXT" />
       <mapping pattern=".hgsubstate" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

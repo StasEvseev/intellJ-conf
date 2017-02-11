@@ -12,6 +12,7 @@
       <mapping pattern="wedding" type="PLAIN_TEXT" />
       <mapping pattern=".hgsubstate" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
